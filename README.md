@@ -1,4 +1,4 @@
-# Good Read Me Generator
+# dfhbdsfadfas
 
   ## Description
 
@@ -12,22 +12,25 @@
   
 
 ## Installation
-node.js
+adfgadfgafdg
 
 ## Technology
-none
+adfgadfgadfg
 
 ## Usage
-none
+dfgadfgad
 
 ## Contribution
-sole contributor
+fgadfgdfg
 
 ## Test
-none
+adfgadfgadfg
 
-## License
+## License ![license badge](https://img.shields.io/badge/<License>-MIT-<COLOR>)
 MIT
 
+
+
 ## Questions
-undefined
+adfgdfgafdg
+adfgadfgadfg
